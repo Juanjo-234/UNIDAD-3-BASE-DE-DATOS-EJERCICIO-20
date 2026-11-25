@@ -81,6 +81,7 @@ A continuación se detalla cada una de las fases representadas:
 ### 4. Tercera Forma Normal (3FN)
 
 * Se eliminan las **dependencias transitivas**, garantizando que ningún atributo no clave dependa de otro atributo no clave. El diseño se consolida en un modelo relacional robusto y totalmente normalizado (`TABLA MIEMBRO`, `TABLA CONTROL_ACCESO`, `TABLA ESPACIO_TRABAJO`, `TABLA RESERVA` y `TABLA CONSUMO_ADICIONAL`), interconectado mediante claves foráneas (FK) que aseguran la integridad referencial y evitan anomalías para la administración del coworking.
-<img width="4272" height="2524" alt="EJERICIO 20-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/f9bd2b7e-d58f-41c6-a1af-6b944a1eca9d" />
+<img width="4272" height="2524" alt="EJERICIO 20-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/d261df73-618b-437e-a2e7-ef4250649003" />
+
 
 
